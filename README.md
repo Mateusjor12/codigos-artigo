@@ -1,2 +1,2 @@
-# codigos-artigo
-Códigos Python utilizados para o artigo "Physics-Informed Generative Adversarial Networks Applied to Dichroic Filters’ Properties Regression"
+#article-codes
+Python codes used for the article "Physics-Informed Generative Adversarial Networks Applied to Dichroic Filters’ Properties Regression"
